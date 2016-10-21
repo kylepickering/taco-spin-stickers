@@ -1,6 +1,12 @@
 {
   "stickers" : [
     {
+      "filename" : "taco-6.sticker"
+    },
+    {
+      "filename" : "taco-7.sticker"
+    },
+    {
       "filename" : "taco.sticker"
     },
     {
@@ -10,16 +16,10 @@
       "filename" : "taco-2.sticker"
     },
     {
-      "filename" : "taco-6.sticker"
-    },
-    {
       "filename" : "taco-1.sticker"
     },
     {
       "filename" : "taco-8.sticker"
-    },
-    {
-      "filename" : "taco-7.sticker"
     },
     {
       "filename" : "taco-4.sticker"
